@@ -1,0 +1,23 @@
+{
+  "name": "burundi-mobile-money-visa",
+  "version": "1.0.0",
+  "description": "This application enables fund transfers between mobile money accounts in Burundi (EcoCash and Lumicash) and Visa cards. It also supports balance inquiries for both mobile money accounts and Visa cards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://allyelvis/visaMob"
+  }
+}
