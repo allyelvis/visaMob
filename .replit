@@ -1,5 +1,5 @@
 entrypoint = "main.sh"
-modules = ["bash", "nodejs-20"]
+modules = ["nodejs-20", "nix"]
 
 [nix]
 channel = "stable-24_05"
